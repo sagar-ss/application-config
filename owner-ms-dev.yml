@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: owner-ms-dev
+server:
+  port: 9085
