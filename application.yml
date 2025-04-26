@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: testing-config-default
+server:
+  port: 9001
