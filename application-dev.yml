@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: testing-config-dev
+server:
+  port: 9002
