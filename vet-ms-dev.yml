@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: vet-ms-dev
+server:
+  port: 9087
