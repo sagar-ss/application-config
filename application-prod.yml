@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: testing-config-prod
+server:
+  port: 9003
